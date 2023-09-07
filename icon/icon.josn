@@ -1,0 +1,16 @@
+{
+  "name": "CyWr.图标订阅",
+  "CyWr.": "收集一些自己常用的图标，尺寸为108px，144px，不定时更新",
+  "icons": [
+    {
+      "name": " ",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-01.png"
+    },
+    {
+      "name": "YiYuan",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/YiYuan.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://github.com/CyWr110/Quantumult_X/blob/main/icon/Apple.png?raw=true"
+    },
